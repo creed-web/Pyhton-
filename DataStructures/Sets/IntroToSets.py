@@ -8,3 +8,7 @@ print(type(my_set))
 #set operations
 my_set.add(11)
 my_set.remove(2)
+my_set.discard(91) #This method basically discards that number means that if the number is in the set it will get removed if it is not there it will just ccontinue no error will be thrown 
+# There are many other things u can do explore while u practice
+
+
