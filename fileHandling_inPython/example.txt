@@ -1,3 +1,1 @@
-Hi myself varun
-I am an engineering student
-I am passionate about building stuff that matters and create impact
+Hanji namaste speaking from writinginFile.py
