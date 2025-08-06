@@ -1,7 +1,7 @@
 This repo is just for my performance and consistency track of learning python if you want to use this same repo to learn python do these following steps.
 
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/creed-web/Pyhton-.git
 
 # Navigate into the project folder
 cd your-repo-name
